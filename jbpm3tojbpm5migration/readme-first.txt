@@ -1,5 +1,5 @@
-this tool will migrate jbpm3.3 diagram to jbpm5 version. this tool will oncely migrate the graphical model, 
-it does not include any any code of the jbpm3.3 model.
+this tool will migrate jbpm3.3 diagram to jbpm5 version. this tool will only migrate the graphical model, 
+it does not include any code of the jbpm3.3 model.
 
 the tools used are:
 - eclipse indigo for jbpm5
